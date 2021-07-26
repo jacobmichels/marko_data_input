@@ -1,0 +1,183 @@
+1626450813668	geckodriver	INFO	Listening on 127.0.0.1:55217
+1626450816680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofileYQ6ZXF"
+1626450816940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofileYQ6ZXF\\search.json.mozlz4", (void 0)))
+1626450818843	Marionette	INFO	Listening on port 55226
+1626450818868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: can't access property "ownerGlobal", this._element is null
+1626450822392	Marionette	INFO	Stopped listening on port 55226
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1626450822659	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+1626451096353	geckodriver	INFO	Listening on 127.0.0.1:63852
+1626451099407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofile9lp5rw"
+1626451099621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofile9lp5rw\\search.json.mozlz4", (void 0)))
+1626451101424	Marionette	INFO	Listening on port 63861
+1626451101445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1626451133147	Marionette	INFO	Stopped listening on port 63861626451133691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofilez945yD"
+1626451133911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofilez945yD\\search.json.mozlz4", (void 0)))
+1626451135696	Marionette	INFO	Listening on port 63980
+1626451135727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1626451152444	Marionette	INFO	Stopped listening on port 63980
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626451152701	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+1626451174422	geckodriver	INFO	Listening on 127.0.0.1:64103
+1626451177477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofileK4hDFD"
+1626451177692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofileK4hDFD\\search.json.mozlz4", (void 0)))
+1626451179538	Marionette	INFO	Listening on port 64113
+1626451179620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1626451184851	Marionette	INFO	Stopped listening on port 64113
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1626451185116	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+1626451300338	geckodriver	INFO	Listening on 127.0.0.1:64297
+1626451303422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofilejAgEh8"
+1626451303640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofilejAgEh8\\search.json.mozlz4", (void 0)))
+1626451305336	Marionette	INFO	Listening on port 64308
+1626451305478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1626451418064	Marionette	INFO	Stopped listening on port 64308
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626451418343	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+	Listening on port 64448
+1626451370895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1626451418794	Marionette	INFO	Stopped listening on port 64448
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1626451419073	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+ta\\Local\\Temp\\rust_mozprofilep2DVZ1\\search.json.mozlz4", (void 0)))
+1626451406347	Marionette	INFO	Listening on port 64590
+1626451406387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1626451419474	Marionette	INFO	Stopped listening on port 64590
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages willconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofileztOKH8\\search.json.mozlz4", (void 0)))
+1626451420823	Marionette	INFO	Listening on port 64710
+1626451421324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1626451724152	Marionette	INFO	Stopped listening on port 64710
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626451724255	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+	Listening on port 55724
+1626451695975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1626451725476	Marionette	INFO	Stopped listening on port 55724
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 17392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1626451725724	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+1626451784546	geckodriver	INFO	Listening on 127.0.0.1:55872
+1626451787613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofile7lbP97"
+1626451787827	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofile7lbP97\\search.json.mozlz4", (void 0)))
+1626451789471	Marionette	INFO	Listening on port 55883
+1626451789674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1626452215561	Marionette	INFO	Stopped listening on port 55883
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1626452215652	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+id content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1626452216057	Marionette	INFO	Stopped listening on port 551626452217052	Marionette	INFO	Stopped listening on port 56116
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626452217149	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+	Listening on port 56271
+1626451930798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1626452217797	Marionette	INFO	Stopped listening on port 56271
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626452217892	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+	Listening on port 56427
+1626451992051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1626452219545	Marionette	INFO	Stopped listening on port 56427
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1626452219664	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+ta\\Local\\Temp\\rust_mozprofileB75kNJ\\search.json.mozlz4", (void 0)))
+1626452087222	Marionette	INFO	Listening on port 56094
+1626452087338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1626452220916	Marionette	INFO	Stopped listening on port 56094
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1626452221018	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+ta\\Local\\Temp\\rust_mozprofile1ydU1W\\search.json.mozlz4", (void 0)))
+1626452166996	Marionette	INFO	Listening on port 56266
+1626452167036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1626452221617	Marionette	INFO	Stopped listening on port 56266
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626452221858	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+	Listening on port 56406
+1626452199107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 22164, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1626452222399	Marionette	INFO	Stopped listening on port 56406
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626452222667	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+1626452308938	geckodriver	INFO	Listening on 127.0.0.1:56594
+1626452312013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofilecK0i2Y"
+1626452312239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jacob\\AppData\\Local\\Temp\\rust_mozprofilecK0i2Y\\search.json.mozlz4", (void 0)))
+1626452313885	Marionette	INFO	Listening on port 56605
+1626452314064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1626453395123	Marionette	INFO	Stopped listening on port 56605
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1626453395221	RemoteAgent	ERROR	unable to stop listener: TypeError: can't access property "destructor", this.targetList is null(chrome://remote/content/cdp/CDP.jsm:92:5) JS Stack trace: stop@CDP.jsm:92:5
+close@RemoteAgent.jsm:138:21
+1626454160218	geckodriver	INFO	Listening on 127.0.0.1:54486
